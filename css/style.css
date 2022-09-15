@@ -43,10 +43,10 @@ body{
     outline: none;
 }
 .search.active .input{
-    width: 400px;
+    width: 200px;
     border-radius: 10px 0 0 10px;
 }
 .search.active .btn{
-    transform: translateX(398px);
+    transform: translateX(198px);
     border-radius: 0 10px 10px 0;
 }
